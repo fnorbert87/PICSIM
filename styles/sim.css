@@ -1,0 +1,11 @@
+body {
+    background-color: #202124;
+}
+
+#frame {
+    width: 1200px;
+    height: 800px;
+    border: 1px solid #bdc1c6;
+    background-color:#303134;
+    margin: 50px auto 50px auto;
+}

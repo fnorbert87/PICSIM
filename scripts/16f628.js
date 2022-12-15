@@ -207,5 +207,3 @@ const p16f628 = [
   'STACKDEPTH=8',
   'VOLSFRS=9C-9D',
 ];
-
-export {p16f628}

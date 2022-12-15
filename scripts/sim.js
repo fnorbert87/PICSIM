@@ -1,4 +1,4 @@
-import { p16f628 } from "../data/16f628";
-
-
-console.log(p16f628)
+for (i in p16f628)
+{
+    console.log(p16f628[i])
+}
